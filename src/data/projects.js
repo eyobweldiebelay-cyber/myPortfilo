@@ -1,3 +1,6 @@
+import bookImage from '../images/book.jpeg'
+import calculatorImage from '../images/project-3.png'
+
 const projects = [
   {
     title: 'Student Registration System',
@@ -7,15 +10,30 @@ const projects = [
     image: '/images/project-1.png',
     liveDemo: '#',
     github: '#',
+    type: 'web',
   },
+
   {
-    title: 'Web Application Project',
+    title: 'Scientific Calculator',
     description:
-      'A modern web application demonstrating responsive frontend development and practical web functionality.',
-    technologies: ['React', 'JavaScript', 'CSS'],
-    image: '/images/project-2.png',
+      'An Android calculator application built with Android Studio for performing mathematical calculations through a simple and user-friendly interface. The application also includes sound feedback.',
+    technologies: ['Android Studio', 'Java', 'Kotlin', 'Jetpack Compose'],
+    image: calculatorImage,
+    liveDemo:
+      'https://drive.google.com/uc?export=download&id=1xT-10v1ERe6vFr9jQMrPPuE9FoEzAwL_',
+    github: '#',
+    type: 'android',
+  },
+
+  {
+    title: 'Book App',
+    description:
+      'An Android application developed using Android Studio as a practical mobile application project.',
+    technologies: ['Android Studio', 'Java', 'Kotlin', 'Jetpack Compose'],
+    image: bookImage,
     liveDemo: '#',
     github: '#',
+    type: 'android',
   },
 ]
 

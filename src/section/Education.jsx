@@ -12,7 +12,7 @@ function Education() {
         </div>
 
         <div className="education-card">
-          <span className="education-year">2026</span>
+          <span className="education-year">2026 G.C</span>
 
           <h3>Bachelor's Degree in Information Technology</h3>
 

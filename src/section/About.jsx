@@ -1,37 +1,58 @@
+import profileImage from '../images/eyoba.jpg'
 import cvFile from '../resume/portfilo.pdf'
+
 function About() {
   return (
     <section id="about" className="about">
       <div className="section-container">
 
         <div className="about-image">
-          <img
-            src="/images/profile.jpg"
-            alt="About me"
-          />
+          <img src={profileImage} alt="Eyob Belay" />
         </div>
 
         <div className="about-content">
-          <p className="section-subtitle">
-            ABOUT ME
-          </p>
+          <p className="section-subtitle">ABOUT ME</p>
 
           <h2>
-            Information Technology Graduate &
-            <span> Web Developer</span>
+            IT Graduate &
+            <span> Software Developer</span>
           </h2>
 
           <p>
-            I am an Information Technology graduate and Web Developer
-            passionate about building modern, responsive and practical
-            web applications.
+            I am an Information Technology graduate from Ethiopia College,
+            graduating in 2026, with a strong interest in building practical
+            software solutions for real-world problems.
           </p>
 
           <p>
-            I enjoy solving real-world problems through technology and
-            continuously improving my skills in frontend development,
-            backend development and database management.
+            I work across both <strong>Android development</strong> and
+            <strong> full-stack web development</strong>. For Android
+            applications, I use Java, Kotlin and Jetpack Compose to create
+            modern and user-friendly mobile applications.
           </p>
+
+          <p>
+            For web applications, I use React, Node.js and MySQL to develop
+            responsive frontend interfaces, backend services and
+            database-driven applications.
+          </p>
+
+          <div className="about-highlights">
+            <div className="about-highlight">
+              <strong>2026</strong>
+              <span>IT Graduate</span>
+            </div>
+
+            <div className="about-highlight">
+              <strong>Android</strong>
+              <span>Java • Kotlin • Compose</span>
+            </div>
+
+            <div className="about-highlight">
+              <strong>Full Stack</strong>
+              <span>React • Node.js • MySQL</span>
+            </div>
+          </div>
 
           <a
             href={cvFile}

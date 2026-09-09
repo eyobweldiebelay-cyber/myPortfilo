@@ -4,7 +4,7 @@ function Footer() {
       <div className="footer-container">
 
         <p>
-          © 2026 Eyob Belay | Web Developer
+         © {new Date().getFullYear()}  Eyob Belay | full stack Web  and Android developer
         </p>
 
         <a href="#home">
