@@ -20,7 +20,7 @@ const projects = [
     technologies: ['Android Studio', 'Java', 'Kotlin', 'Jetpack Compose'],
     image: calculatorImage,
     liveDemo:
-      'https://drive.google.com/uc?export=download&id=1xT-10v1ERe6vFr9jQMrPPuE9FoEzAwL_',
+      'https://drive.google.com/file/d/1xT-10v1ERe6vFr9jQMrPPuE9FoEzAwL_/view?usp=sharing',
     github: '#',
     type: 'android',
   },

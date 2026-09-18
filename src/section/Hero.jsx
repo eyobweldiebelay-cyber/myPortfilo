@@ -15,9 +15,9 @@ function Hero() {
           </h1>
 
           <h2>
-            WEB DEVELOPER
+            INFORMATION TECHNOLOGY GRADUATE IN <strong className='strong'>2026</strong> 
             <br />
-            & INFORMATION TECHNOLOGY GRADUATE
+            & WEB DEVELOPER
           </h2>
 
           <p className="hero-description">

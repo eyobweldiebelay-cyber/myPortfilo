@@ -1,4 +1,4 @@
-import profileImage from '../images/eyoba.jpg'
+import profileImage from '../images/eyob.jpg'
 import cvFile from '../resume/portfilo.pdf'
 
 function About() {
@@ -45,7 +45,7 @@ function About() {
 
             <div className="about-highlight">
               <strong>Android</strong>
-              <span>Java • Kotlin • Compose</span>
+              <span>Java • Kotlin •Jetpack Compose</span>
             </div>
 
             <div className="about-highlight">
