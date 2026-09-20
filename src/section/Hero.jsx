@@ -15,7 +15,7 @@ function Hero() {
           </h1>
 
           <h2>
-            INFORMATION TECHNOLOGY GRADUATE IN <strong className='strong'>2026</strong> 
+            <strong className='green'>I</strong>NFORMATION <strong className='yellow'>T</strong>ECHNOLOGY <strong className='red'>G</strong>RADUATE IN <strong className='strong'>2026</strong> 
             <br />
             & WEB DEVELOPER
           </h2>
