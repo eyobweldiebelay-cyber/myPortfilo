@@ -146,6 +146,7 @@
   font-size: 70px;
   line-height: 1.05;
   margin-bottom: 20px;
+  color: rgb(132, 225, 132);
 }
 
 .hero h2 {
@@ -157,10 +158,20 @@
  
   
 }
-.strong{
+.green{
    color:green;
-   font-size: 30px;
+   font-size: 35px;
 }
+.yellow{
+  color:yellow;
+}
+.red{
+  color: rgb(181, 92, 92);
+}
+.strong{
+  color:green;
+}
+
 
 .hero-description {
   max-width: 600px;
