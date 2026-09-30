@@ -42,7 +42,7 @@ const projects = [
     ],
     image: calculatorImage,
     liveDemo:
-      'https://drive.google.com/file/d/1xT-10v1ERe6vFr9jQMrPPuE9FoEzAwL_/view?usp=sharing',
+      'https://drive.google.com/file/d/1Xy16J2oi-7MxX1olniuXUKixfAOrIQW_/view?usp=drive_link',
     github: 'https://github.com/eyobweldiebelay-cyber/ScientificCalculator-Android.git',
     type: 'android',
   },
@@ -59,7 +59,7 @@ const projects = [
     ],
     image: bookImage,
     liveDemo:
-      'https://drive.google.com/file/d/10yC6pzuwaUu2HIRyy-C1jicsm0bK6XCl/view?usp=drive_link',
+      'https://drive.google.com/file/d/1swlHRMfBRtP3xdXiDd4gzVLdOSgrNTFV/view?usp=sharing',
     github: '#',
     type: 'android',
   },
