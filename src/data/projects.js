@@ -11,7 +11,7 @@ const projects = [
     technologies: ['React', 'Node.js', 'Express', 'MySQL'],
     image: ecommerceImage,
     liveDemo:
-      'https://e-commerce-l574cyqzz-eyob-portfolio.vercel.app',
+      'https://commerce-ii6sjb0kv-eyob-portfolio.vercel.app',
     github:
       'https://github.com/eyobweldiebelay-cyber/E-Commerce.git',
     type: 'web',
@@ -43,7 +43,7 @@ const projects = [
     image: calculatorImage,
     liveDemo:
       'https://drive.google.com/file/d/1xT-10v1ERe6vFr9jQMrPPuE9FoEzAwL_/view?usp=sharing',
-    github: '#',
+    github: 'https://github.com/eyobweldiebelay-cyber/ScientificCalculator-Android.git',
     type: 'android',
   },
 
