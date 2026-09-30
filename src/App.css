@@ -135,7 +135,13 @@
   align-items: center;
   gap: 80px;
 }
+h2 strong{
+  color:beige;
 
+}
+h2 .strong{
+  color:green;
+}
 .hero-small-text {
   color: #38bdf8;
   font-size: 20px;
