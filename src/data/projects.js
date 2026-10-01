@@ -24,7 +24,7 @@ const projects = [
     technologies: ['React', 'Node.js', 'Express', 'MySQL'],
     image: register,
     liveDemo:
-      'https://online-m5u4fhp46-eyob-portfolio.vercel.app/',
+      'https://online-ruby-zeta.vercel.app',
     github:
       'https://github.com/eyobweldiebelay-cyber/onlineRegister.git',
     type: 'web',
