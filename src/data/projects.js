@@ -8,7 +8,7 @@ const projects = [
   {
     title: 'online exam System',
     description:
-      'A modern full-stack e-commerce website designed for online shopping, with product browsing, product details, shopping cart, favorites, checkout, orders, payment processing, and separate customer and admin features.',
+     'A modern full-stack online examination system designed for secure and efficient exams, featuring student and teacher management, academic department organization, question bank management, exam scheduling, timed multiple-choice exams, automatic grading, result tracking, and separate Admin, Academic Dean, Teacher, and Student dashboards.',
     technologies: ['React', 'Node.js', 'Express', 'MySQL'],
     image: examsystem,
     liveDemo:
