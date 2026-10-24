@@ -59,8 +59,8 @@ const projects = [
     ],
     image: bookImage,
     liveDemo:
-      'https://drive.google.com/file/d/1swlHRMfBRtP3xdXiDd4gzVLdOSgrNTFV/view?usp=sharing',
-    github: '#',
+      'https://drive.google.com/file/d/1VQp0Qeo-TiDmYhY3INDDutgMUd4NHMiy/view?usp=drive_link',
+    github: 'https://github.com/eyobweldiebelay-cyber/AndroidBookApp.git',
     type: 'android',
   },
 ]
