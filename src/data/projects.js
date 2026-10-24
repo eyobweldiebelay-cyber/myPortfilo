@@ -2,8 +2,21 @@ import register from '../images/online.png'
 import bookImage from '../images/book.jpeg'
 import calculatorImage from '../images/project-3.png'
 import ecommerceImage from '../images/shop.png'
+import examsystem from '../images/examm.png'
 
 const projects = [
+  {
+    title: 'online exam System',
+    description:
+      'A modern full-stack e-commerce website designed for online shopping, with product browsing, product details, shopping cart, favorites, checkout, orders, payment processing, and separate customer and admin features.',
+    technologies: ['React', 'Node.js', 'Express', 'MySQL'],
+    image: examsystem,
+    liveDemo:
+      'https://online-exam-system-silk.vercel.app/?utm_source=chatgpt.com',
+    github:
+      'https://github.com/eyobweldiebelay-cyber/online-Exam-System.git',
+    type: 'web',
+  },
   {
     title: 'E-Commerce Website',
     description:
